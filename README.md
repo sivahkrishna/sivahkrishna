@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on building communitites
 - 📫 How to reach me anything
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: nothing
 
 <!---
 sivahkrishna/sivahkrishna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
