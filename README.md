@@ -1,11 +1,53 @@
-- 👋 Hi, I’m @sivahkrishna
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning bsc artificial intelligence and machine learning
-- 💞️ I’m looking to collaborate on building communitites
-- 📫 How to reach me anything
-- 😄 Pronouns: he/him
+# 👋 Hi, I'm Siva Krishna
 
-<!---
-sivahkrishna/sivahkrishna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Final Year BSc AI & ML Student
+💡 Passionate about AI, NLP,Python and building real-world applications
+🚀 Currently working on AI-powered projects
+
+---
+
+## 🔥 Projects
+
+### 🌐 AI-Powered Language Learning Assistant
+
+* Built a full-stack AI system (Web + Android)
+* Integrated NLP using HuggingFace Transformers
+* Real-time API communication between backend and mobile app
+
+🔗 Web App: https://github.com/sivahkrishna/edu-ai-web
+🔗 Android App: https://github.com/sivahkrishna/edu-ai-app
+
+---
+
+## 🛠️ Tech Stack
+
+* Python (django)
+* Machine Learning / NLP
+* HuggingFace Transformers
+* Android Development (Flutter)
+* Git & GitHub
+
+---
+
+## 📈 What I'm Learning
+
+* Advanced NLP
+* Deep Learning
+* Backend Deployment (Render / AWS)
+
+---
+
+## 🎯 Career Goal
+
+To become an AI Engineer and build impactful intelligent systems
+
+---
+
+## 📫 Connect with Me
+
+* GitHub: https://github.com/sivahkrishna
+* LinkedIn: https://www.linkedin.com/in/sivahkrishna
+
+---
+
+⭐ If you like my projects, feel free to explore and give feedback!
