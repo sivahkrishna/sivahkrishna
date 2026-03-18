@@ -8,7 +8,7 @@
 
 ## 🔥 Projects
 
-### 🌐 AI-Powered Educational Management
+### 🌐 AI-Powered College Management
 
 * Built a full-stack AI system (Web + Android)
 * Integrated NLP using HuggingFace Transformers
