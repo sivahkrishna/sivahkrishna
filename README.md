@@ -8,7 +8,7 @@
 
 ## 🔥 Projects
 
-### 🌐 AI-Powered Language Learning Assistant
+### 🌐 AI-Powered Educational Management
 
 * Built a full-stack AI system (Web + Android)
 * Integrated NLP using HuggingFace Transformers
