@@ -56,6 +56,13 @@
 
 ###
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/sivahkrishna/sivahkrishna/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="50" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/sivahkrishna/sivahkrishna/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="100" alt="languages graph"  />
+</div>
+
+###
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivahkrishna/sivahkrishna/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sivahkrishna/sivahkrishna/pacman-output/galaga-contribution-graph.svg?game=galaga">
@@ -82,9 +89,7 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/sivahkrishna/sivahkrishna/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="100" alt="languages graph"  />
-</div>
+<h3 data-importer="text" align="center">Total Visitors</h3>
 
 ###
 
