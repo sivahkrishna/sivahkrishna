@@ -46,15 +46,15 @@
 
 #
 
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Data Science
+- Passionate about Artificial Intelligence, Machine Learning & Data Science
 
-- 💻 Building real-world applications with Python & Django
+- Building real-world applications with Python & Django
 
-- 🌱 Currently learning Deep Learning, Generative AI & Cloud
+- Currently learning Deep Learning, Generative AI & Cloud
 
-- 🎯 Goal: Become an AI Engineer
+- Goal: Become an AI Engineer
 
-- 🚀 Always learning and building new projects
+- Always learning and building new projects
 
 
 <h3 data-importer="text" align="center">I CODE WITH</h3>
